@@ -1,0 +1,24 @@
+h1 {
+    color: white;
+    margin-top: 20px;
+    font-size: 70px;
+    text-align: center;
+    text-shadow : 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 0px #001135; 
+}
+body {
+    background-color: #2a2927;
+    display: block;
+}
+p {
+    text-align: center;
+    margin-top: 101px;
+}
+button {
+    width: 200px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid #2a2927;
+    background: #2a2927;
+    box-shadow:  5px 5px 15px #242321, -5px -5px 15px #302f2d;
+}
